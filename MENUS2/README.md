@@ -1,18 +1,12 @@
-## Getting Started
+Se nos pidio desarrollar una interfaz gráfica de usuario (GUI) en JavaFX que permita a los usuarios seleccionar una fecha y un color, y visualizar estas selecciones en la interfaz.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Usaremos datePicker, ColorPicker, button, Vbox layouts y labels
 
-## Folder Structure
+![image](https://github.com/SVJosh/PROGRAMACION-3-3/assets/168208275/e91d87e5-c45c-412c-b238-7f19f5556ce2)
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+El datepicker permitira al usuario el seleccionar la fecha que desee por medio de un calendario despegable, mientras que el permitira al usuario seleccionar un color desde una paleta, el vbox va a contener los nodos hijos en una columna vertical, los labels solo mostraran texto y el button sera nuestro botón para confirmar los datos seleccionados por el datepicker y el colorpicker
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+![image](https://github.com/SVJosh/PROGRAMACION-3-3/assets/168208275/88dcd565-3098-4f4f-81fa-53c0ae9958da)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Este es el resultado una vez el botón realiza la acción de confirmar, muestra una nueva ventana confirmando las acciones hechas y muestra las opciones que ha elegido el usuario.

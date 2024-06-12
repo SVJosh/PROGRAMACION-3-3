@@ -20,7 +20,6 @@ public class App extends Application {
 
         Scene scene = new Scene(gridPane, 600, 600);
 
-        // Establecer el título del Stage
         primaryStage.setTitle("All Controls");
 
         primaryStage.setScene(scene);

@@ -1,18 +1,5 @@
-## Getting Started
+Se nos pidio desarrollar una interfaz gráfica de usuario (GUI) en JavaFX que incluya una barra de menú con varias opciones y submenús, permitiendo al usuario realizar diferentes acciones a través de estos menús.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![image](https://github.com/SVJosh/PROGRAMACION-3-3/assets/168208275/90bb0782-2f8e-464c-9cad-ebe33a072fe3)
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+En la imagen se muestra la ejecución del código, tenemos el menuItems, que nos mostrara más opciones al presionar archivo, editar o ayuda, el hbox esta en uso puesto que los nodos hijos está organizados de manera horizontal, el borderPane solo contiene toda la información y el botón salir hace eso, es el único botón que tiene una acción programada.

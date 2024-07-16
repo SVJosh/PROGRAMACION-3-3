@@ -27,6 +27,9 @@ Ahora en el caso de los Constructores es igual, se indica que año va a buscar l
 Con esto finalizamos el trabajo grupal, conformado por:
 
 Matias Andres Cañola Salazar
+
 Rosas Duque Anibal Ezequiel
+
 Samaniego Lago Jose Jeremy
+
 Santana Villacis Joshua Isaac

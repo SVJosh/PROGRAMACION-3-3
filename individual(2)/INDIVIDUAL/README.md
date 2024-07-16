@@ -1,8 +1,10 @@
-# TAREA-5
 
-CAPTURA DE LA INTERFAZ
+Mostrar la tabla de resultados de conductores en un TablaView (Individual)
 
-![image](https://github.com/AnibalSpike/TAREA-5/assets/168206608/00f48473-1365-47fd-9fb8-bfbef3e5c9e7)
+![image](https://github.com/user-attachments/assets/4f2d0444-13f4-416e-b61e-ac537e14397b)
 
-![image](https://github.com/AnibalSpike/TAREA-5/assets/168206608/650ca7cb-0e6e-471e-a1d3-8529563805bc)
+
+Se pidio el resultado de ejecutar el programa, pero esta ejecución debe de poseer tanto un ComboBox y un TableView, lo cual se logra apreciar en la imagen
+![image](https://github.com/user-attachments/assets/e45d836a-4d09-479c-b35d-f44777a11f0f)
+
 

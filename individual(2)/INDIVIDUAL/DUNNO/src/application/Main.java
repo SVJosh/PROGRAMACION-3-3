@@ -82,7 +82,7 @@ public class Main extends Application {
     private void loadYears() {
         String url = "jdbc:postgresql://localhost:5432/formula1";
         String user = "postgres";
-        String password = "admin12345";
+        String password = "12345678";
 
         try (Connection connection = DriverManager.getConnection(url, user, password);
              Statement statement = connection.createStatement()) {
